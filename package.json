@@ -11,7 +11,6 @@
     "db:push": "npx drizzle-kit push:pg",
     "db:seed": "tsx ./scripts/seed.ts",
     "db:reset": "tsx ./scripts/reset.ts"
-
   },
   "dependencies": {
     "@clerk/nextjs": "^4.30.0",
